@@ -1,4 +1,4 @@
-# EX-9: Build-and-deploy-your-own-deep-neural-network-on-a-website-using-tensor-flow.
+# EXP-9: Build-and-deploy-your-own-deep-neural-network-on-a-website-using-tensor-flow.
 ## AIM:
 To Build-and-deploy-your-own-deep-neural-network-on-a-website-using-tensor-flow.
 
